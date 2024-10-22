@@ -24,7 +24,7 @@ IMAP_SERVER = "imap.gmail.com"
 IMAP_PORT = 993
 
 # Google Sheets API setup
-SHEET_ID = "15v2PDEguUqkn88eEwThu5hurzdFIFntfMCyLpTz1Zkc"
+SHEET_ID = "YOUR SHEET ID"
 SHEET_NAME = "Sheet1"
 SCOPES = ["https://www.googleapis.com/auth/spreadsheets"]
 
