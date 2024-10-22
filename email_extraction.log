@@ -1,0 +1,6 @@
+2024-10-22 18:27:49,195 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-10-22 18:27:49,669 - INFO - Processing emails from 2024-10-01 00:00:00 to 2024-10-02 23:59:59...
+2024-10-22 18:27:52,632 - INFO - Total emails found in the specified range: 33
+2024-10-22 18:28:09,417 - INFO - Total emails added to Google Sheets: 33
+2024-10-22 18:28:09,418 - INFO - Total emails skipped: 0
+2024-10-22 18:28:12,603 - INFO - Successfully wrote 33 emails to Google Sheets.
