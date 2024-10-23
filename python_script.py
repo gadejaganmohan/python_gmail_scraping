@@ -9,12 +9,12 @@ import logging
 
 # IMAP server login credentials
 EMAIL = "gadejaganmohan@gmail.com"
-PASSWORD = "kscf zrou qtzj ogky"  # Use an app-specific password for security
+PASSWORD = "IMAP PASSWORD"  # Use an app-specific password for security
 IMAP_SERVER = "imap.gmail.com"
 IMAP_PORT = 993
 
 # Google Sheets API setup
-SHEET_ID = "15v2PDEguUqkn88eEwThu5hurzdFIFntfMCyLpTz1Zkc"
+SHEET_ID = "YOUR SHEET ID"
 SHEET_NAME = "Sheet1"
 SCOPES = ["https://www.googleapis.com/auth/spreadsheets"]
 
