@@ -1,6 +1,10 @@
-2024-10-22 18:27:49,195 - INFO - file_cache is only supported with oauth2client<4.0.0
-2024-10-22 18:27:49,669 - INFO - Processing emails from 2024-10-01 00:00:00 to 2024-10-02 23:59:59...
-2024-10-22 18:27:52,632 - INFO - Total emails found in the specified range: 33
-2024-10-22 18:28:09,417 - INFO - Total emails added to Google Sheets: 33
-2024-10-22 18:28:09,418 - INFO - Total emails skipped: 0
-2024-10-22 18:28:12,603 - INFO - Successfully wrote 33 emails to Google Sheets.
+2024-10-23 20:57:59,574 - INFO - Date: 2024-10-01 - Total emails found: 33, Total emails skipped: 0
+2024-10-23 20:58:02,681 - INFO - Successfully wrote 33 emails to Google Sheets.
+2024-10-23 20:58:37,369 - INFO - Date: 2024-10-02 - Total emails found: 25, Total emails skipped: 0
+2024-10-23 20:58:38,736 - INFO - Successfully wrote 25 emails to Google Sheets.
+2024-10-23 20:59:12,551 - INFO - Date: 2024-10-03 - Total emails found: 25, Total emails skipped: 0
+2024-10-23 20:59:13,768 - INFO - Successfully wrote 25 emails to Google Sheets.
+2024-10-23 20:59:50,486 - INFO - Date: 2024-10-04 - Total emails found: 21, Total emails skipped: 0
+2024-10-23 20:59:52,862 - INFO - Successfully wrote 21 emails to Google Sheets.
+2024-10-23 21:00:21,217 - INFO - Date: 2024-10-05 - Total emails found: 28, Total emails skipped: 0
+2024-10-23 21:00:22,423 - INFO - Successfully wrote 28 emails to Google Sheets.
